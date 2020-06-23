@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("Pagame mis doblones\n");
-    return 0;
+    printf("Tengo hambre\n");
+    return 0
 }
